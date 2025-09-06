@@ -1,0 +1,9 @@
+nav{
+    background-color:bisque;
+    color: black;
+    padding: 5px;
+}
+nav:hover{
+    background-color:white;
+    color: red;
+}
